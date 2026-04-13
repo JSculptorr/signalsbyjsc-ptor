@@ -1,0 +1,21 @@
+{
+  "name": "JSculptor AI Surgeon",
+  "short_name": "JSculptor",
+  "description": "Institutional Trading Terminal by JSculptor",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "photo_2026-04-13_19-36-52.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "photo_2026-04-13_19-36-52.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
